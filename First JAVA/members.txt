@@ -1,0 +1,9 @@
+=============================
+Member Name: ahmed
+Club ID: 1
+Date Joined: 12/5
+Phone Number: 11
+Gender: male
+Date of Birth: 12/5
+=============================
+
